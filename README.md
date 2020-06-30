@@ -1,5 +1,5 @@
 # Print
-print test for Jenkins.It's just for test.
+print test for Jenkins.It's just for test. It's just for test.
 
 # How to use
 mkdir build
